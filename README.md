@@ -4,4 +4,4 @@
 ## This will not cause any damage to your PC.
 
 # Hydra Recreated © Pourta Services 2024. All Rights Reserved
-This application is a recreated version of the original. However, you are not allowed to redistribute this project as your own. You may share it, create your own repository and feature this program or use it commercially as long as you credit Polar Services and provide a GitHub repository link to the original. If you do not see a distribution option here, please DM 'felpaca' on Discord.
+This application is a recreated version of the original. However, you are not allowed to redistribute this project as your own. You may share it, create your own repository and feature this program or use it commercially as long as you credit Pourta Services and provide a GitHub repository link to the original. If you do not see a distribution option here, please DM 'felpaca' on Discord.
